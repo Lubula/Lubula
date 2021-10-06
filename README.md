@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, Thanks for coming by 👋
 
 <!--
 **Lubula/Lubula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
