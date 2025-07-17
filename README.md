@@ -1,13 +1,13 @@
-## Hi there, thanks for coming by 👋
+## Hi there👋, Are you sure you're in the right place? It's okay to be lost sometimes! 
 
 <!--
 **Lubula/Lubula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Versatile individual with experience collecting, transforming and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, spreadsheets, Tableau and R.  Previous sales experience providing essential soft skills such as presentation skills, research, collaboration, adaptability and attention to detail
+- 🔭 AI Engineer with five years of experience in data science, possessing a strong foundation in data analytics and software engineering principles to drive innovation and deliver measurable business impact. Proficient in Python, SQL, Machine Learning (ML) frameworks, and End-To-End Machine Learning (ML) Pipeline Development to develop scalable AI solutions that foster growth.
 
-- 📫 How to reach me: chikwekwepaulo@gmail.com
+- 📫 How to reach me: nsansadesigns@gmail.com
 
-- ⚡ Fun fact: I believe my hero academia is the best anime since berserk (I hope you kow both)
+- ⚡ Fun fact: Berserk, the manag is the greatest piec of litrture other than the Holy Bible
 
